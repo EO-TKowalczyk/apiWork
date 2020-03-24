@@ -1,0 +1,53 @@
+/* currency exchange title */
+.PostTitle{
+    color: purple;
+    margin-left:40% ;
+    font-size: 25px;
+    font-weight: bold;
+    width: 600px;
+}
+
+/* today date */
+.SubTitlesDate{
+    margin-left: 110px;
+    font-size: 22px;
+    width: 130px;
+    margin-top: 24px;
+}
+ /* data for today date */
+.SubTitlesDateDate{
+    margin-left: 5px;
+    font-size: 24px;
+    font-weight: 600;
+    width: 130px;
+    color: blue;
+}
+
+
+/* base title */
+.SubTitlesBase{
+    margin-left: 100px;
+    font-size: 22px;
+    width: 70px;
+    margin-top: 24px;
+   
+}
+
+/* base  data */
+.SubTitlesBaseBase{
+    margin-left: 5px;
+    font-size: 24px;
+    font-weight: 600;
+    width: 130px;
+    color: blue;
+}
+
+/* base title */
+.SubTitlesRate{
+    margin-left: 70px;
+    font-size: 22px;
+    width: 70px;
+    margin-top: 24px;
+   
+}
+
